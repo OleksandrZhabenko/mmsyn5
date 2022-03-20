@@ -86,3 +86,7 @@
 ## 0.5.0.0 -- 2020-10-29
 
 * Fifth version. Changed the inlining policies so that ghc -ddump-lint produces no warnings.
+
+## 0.5.1.0 -- 2022-03-20
+
+* Fifth version revised A. Updated the dependency boundaries by the application on GitHub.
